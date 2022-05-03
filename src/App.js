@@ -11,7 +11,7 @@ function App() {
   const [todo, setToDo] = useState([
     {
       id: 1,
-      title: "first ToDo",
+      title: "standart ToDo",
       status: true,
     },
 
